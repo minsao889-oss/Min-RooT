@@ -1,0 +1,2 @@
+894e3d364d082b0baed380fd2c19859ddb4848b4a45277e831af1bf2367fc443  MinRooT-v3.2.0-win64.zip
+40b368c7dcf1c968edc831df40b64cfaaa436da6062cf0a013c602f536b8c7f1  MinRooT-v3.2.0-source.zip
