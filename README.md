@@ -17,7 +17,7 @@ Windows 桌面端的 Android Root 管理器安装 / 切换 / 提权辅助工具�
 
 请到仓库的 **Releases** 页面下载：
 
-- `MinRooT-v3.2.0-win64.zip`：Windows 64 位免安装版，解压即用
+- `MinRooT-win64.zip`：Windows 64 位免安装版，解压即用
 
 ## 运行
 
